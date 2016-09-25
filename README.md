@@ -1,4 +1,4 @@
-hackergo
+gostuff
 =============
 
-Contains hackerrank challenges resolved in go
+Contains rsolved hackerrank challenges and various code snippets in go
